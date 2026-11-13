@@ -1,0 +1,5 @@
+card_id,scan_date,operator,resolution,status
+PRP-C001,2025-10-02,IH,600dpi,accepted
+PRP-C002,2025-10-02,IH,600dpi,accepted
+PRP-C003,2025-10-03,RS,600dpi,retake
+PRP-C004,2025-10-04,IH,600dpi,accepted
